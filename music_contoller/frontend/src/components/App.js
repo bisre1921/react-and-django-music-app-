@@ -4,7 +4,9 @@ import Home from './Home'
 
 const App = () => {
   return (
-    <Home />
+    <div className="center">
+      <Home />
+    </div>
   )
 }
 
